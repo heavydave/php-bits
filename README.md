@@ -1,1 +1,1 @@
-# php-bits
+A collection of useful PHP snippets.
